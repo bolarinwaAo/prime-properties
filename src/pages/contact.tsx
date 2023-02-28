@@ -12,15 +12,15 @@ const contacts: Contact[] = [
         icon: "/icons/phone_icon.svg",
         title: "Telephone",
         contacts: [
-            '+00 123 456 789',
-            '+00 987 654 321'
+            '+00 000 000 000',
+            '+00 000 000 000'
         ]
     },
     {
         icon: "/icons/email_icon_white.svg",
         title: "Email Address",
         contacts: [
-            'mutesacedric@gmail.com',
+            'abiolabola@gmail.com',
             "sales@primeproperties.com"
         ]
     },
@@ -28,7 +28,7 @@ const contacts: Contact[] = [
         icon: "/icons/address_icon_white.svg",
         title: "Our Address",
         contacts: [
-            '4517 Washington Ave. Manchester, Kentucky 39495'
+            '001 Flinders Street, Melbourne 3000, Australia'
         ]
     }
 ]
